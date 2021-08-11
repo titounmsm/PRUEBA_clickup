@@ -1,0 +1,2 @@
+vista administrador
+aca va el codigo
